@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Social Media</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="user">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="demo">Demo text for cheching is everyting is working fine and are in there place</string>
+    <string name="default_notification_channel_id">default</string>
+</resources>

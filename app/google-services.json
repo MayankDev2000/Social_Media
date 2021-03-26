@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192496366786",
+    "project_id": "social-media-2021",
+    "storage_bucket": "social-media-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192496366786:android:7afafa24454bf63c51375b",
+        "android_client_info": {
+          "package_name": "com.mayank.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192496366786-mpgtpkfjfldkgtcbof9lfp4rjjogb4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQE6BGDE2DXBLINxSJa5fecuIYqi0uaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192496366786-mpgtpkfjfldkgtcbof9lfp4rjjogb4tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
